@@ -23,5 +23,6 @@ _*
 .idea_modules/
 
 ##Wordpress ignores
+.htaccess
 wp-config.php
 wp-content/uploads
